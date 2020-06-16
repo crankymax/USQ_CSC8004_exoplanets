@@ -1,1 +1,3 @@
-# USQ_CSC8004_exoplanets
+# USQ CSC8004 Data mining Major Project
+## Exoplanet clustering
+
